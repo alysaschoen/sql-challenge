@@ -40,21 +40,18 @@ Design the tables to hold the data from the CSV files, import the CSV files into
 
 
 
-**References Used**
+### References Used
 
-Date Data Type:
+**Date Data Type:**
 *I was curious on the best data type to assign to the dates included in employees.csv; quickly discovered the DATE format through the link below*
-
 https://www.w3schools.com/sql/sql_dates.asp#:~:text=SQL%20Server%20comes%20with%20the,%2DDD%20HH%3AMI%3ASS
 
-Date Data Type Queries:
-
+**Date Data Type Queries:**
 *After using the date data type, I wanted to ensure I would use it correctly while querying.*
 
 https://popsql.com/learn-sql/sql-server/how-to-query-date-and-time-in-sql-server
 
-Frequency Count:
-
+**Frequency Count:**
 *Needed a reminder on how to perform a frequency count.*
 
 https://joshfrankel.me/blog/calculating-frequency-distribution-in-postgresql/
